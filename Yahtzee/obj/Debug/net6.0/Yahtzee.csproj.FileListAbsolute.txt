@@ -1,0 +1,12 @@
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.deps.json
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.dll
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\bin\Debug\net6.0\Yahtzee.pdb
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.csproj.AssemblyReference.cache
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.AssemblyInfoInputs.cache
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.AssemblyInfo.cs
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.csproj.CoreCompileInputs.cache
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.dll
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\refint\Yahtzee.dll
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\Yahtzee.pdb
+C:\Users\61417\Documents\misc_projects\GrantsYahtzee\Yahtzee\obj\Debug\net6.0\ref\Yahtzee.dll
